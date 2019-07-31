@@ -1,4 +1,4 @@
 # Comp On The Go
 
-A barebones Django app, which can easily be deployed to Heroku.
+A barebones Django app with authentication setup for LinkedIn, Facebook and Google.
 
